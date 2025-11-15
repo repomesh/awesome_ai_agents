@@ -3,7 +3,7 @@
   
   [![Post on Twitter](https://img.shields.io/badge/Post%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjim-schwoebel%2Fawesome_ai_agents&text=Discover%20the%20Awesome%20AI%20Agents%20repo%21%20A%20curated%20collection%20of%20AI%20agents%20for%20automation%2C%20NLP%2C%20and%20more%21%20Open-source%20%26%20community-driven%21%20%F0%9F%9A%80)
   
-  [![Subscribe to Newsletter](https://img.shields.io/badge/Subscribe%20to%20Newsletter-%23FF9900?style=for-the-badge&logo=mailchimp&logoColor=white)](https://sub.mlagents.news)
+  [![Subscribe to Newsletter](https://img.shields.io/badge/Subscribe%20to%20Newsletter-%23FF9900?style=for-the-badge&logo=mailchimp&logoColor=white)](https://agents.blog)
 
   <img src="./assets/logo.webp" width="400" />
 </div>
@@ -1717,7 +1717,7 @@ Your star helps others find this valuable resource! By starring, you:
 Let’s shape the future of AI together! 🌟 
 
 ### Newsletter
-📩 **Subscribe for Daily News**: Get **100+ updates daily** and never miss a breakthrough in ML agents. Join us at **[sub.mlagents.news](https://sub.mlagents.news)**.  
+📩 **Subscribe for Daily News**: Get **100+ updates daily** and never miss a breakthrough in ML agents. Join us at **[https://agents.blog](https://agents.blog)**.  
 
 ### LinkedIn
 Share on LinkedIn with this simple post:
